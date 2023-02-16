@@ -1,0 +1,15 @@
+/* @import url(https://fonts.googleapis.com/css?family=Zeyada:regular); */
+/* @import url(https://fonts.googleapis.com/css?family=Bangers:regular); */
+
+/* @import url(https://fonts.googleapis.com/css?family=Allura:regular); */
+/* @import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light:regular); */
+
+@import url(https://fonts.googleapis.com/css?family=Julee:regular);
+@import url(https://fonts.googleapis.com/css?family=Satisfy:regular);
+
+@import url(https://fonts.googleapis.com/css?family=Signika:300,regular,500,600,700);
+
+@import url(https://fonts.googleapis.com/css?family=Yellowtail:regular);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
